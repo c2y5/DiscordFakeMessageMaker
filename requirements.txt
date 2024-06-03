@@ -1,0 +1,7 @@
+disnake==2.9.1
+pillow==10.3.0
+requests==2.31.0
+pilmoji==2.0.4
+pytz==2024.1
+datetime==5.5
+emoji==1.6.3
