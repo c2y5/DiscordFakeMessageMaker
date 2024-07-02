@@ -2,6 +2,7 @@
 
 ```py
 from image import DiscordMessageImage
+
 DMI = DiscordMessageImage(<user_id>, <text>) # EG: DMI = DiscordMessageImage(12345, "Hello World!")
 img = DMI.create_image()
 img.save(<name.ext>) # EG: img.save("test.png")
